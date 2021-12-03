@@ -1,6 +1,7 @@
 # Antra_uzduotis
 # v1.2
-Pasinaudojus "Rule of Three" realizuoti operatoriai klasei Studentas.
+Pasinaudojus "Rule of Three" apibrėžimu realizuoti klasei Studentas: realizuotas destruktorius, kopijavimo konstruktorius, kopijavimo-priskirimo operatorius.
+Papildomai realizuota: Studento klasės sumavimo += operatorius bei išvedimo operatorius <<.
 
 # v1.1
 
