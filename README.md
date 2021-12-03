@@ -1,4 +1,7 @@
 # Antra_uzduotis
+# v1.2
+Pasinaudojus "Rule of Three" realizuoti operatoriai klasei Studentas.
+
 # v1.1
 
 Pratęsta ir patobulinta 1-osios užduoties realizacija (versija v1.0) taip, kad vietoje sukurtos Studentas struct`ūros, jos pagrindu sukurta class'ė, vadovaujantis per teorijos paskaitas nurodomomis "geromis praktikomis". Pataisytas visas kodas.
