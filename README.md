@@ -1,7 +1,7 @@
 # Antra_uzduotis
 # v1.1
 
-Pratęsta ir patobulinta 1-osios užduoties realizacija (versiją v1.0) taip, kad vietoje Jūsų sukurtos Studentas struct`ūros, jos pagrindu sukurta class'ė, vadovaujantis per teorijos paskaitas nurodomomis "geromis praktikomis". Pataisytas visas kodas.
+Pratęsta ir patobulinta 1-osios užduoties realizacija (versija v1.0) taip, kad vietoje sukurtos Studentas struct`ūros, jos pagrindu sukurta class'ė, vadovaujantis per teorijos paskaitas nurodomomis "geromis praktikomis". Pataisytas visas kodas.
 
 Palyginimui pirma pasižiūrime į **v1.0** gaunamus rezultatus tik su 2 strategija bei VECTOR realizacija:
 
