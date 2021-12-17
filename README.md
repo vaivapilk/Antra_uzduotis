@@ -1,7 +1,7 @@
 # Antra_uzduotis
 
 # v1.5
-Vietoj Studentas klasės sukurtos dvi: bazinė klasė Asmuo ir iš jos išvestinė klasė Studentas. Asmuo klasė yra abstrakčioji klasė.
+Vietoj Studentas klasės sukurtos dvi: bazinė klasė `Asmuo` ir iš jos išvestinė klasė `Studentas`. `Asmuo` klasė yra abstrakčioji klasė.
 
 # v1.2
 Pasinaudojus "Rule of Three" apibrėžimu realizuoti klasei Studentas: realizuotas destruktorius, kopijavimo konstruktorius, kopijavimo-priskirimo operatorius.
