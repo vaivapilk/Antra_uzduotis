@@ -4,9 +4,9 @@
 Paleidus programą paklausiama, ar vartotojas norės įvesti duomenis pats, ar norės nuskaitymo iš failo, todėl reikia įvestis atitinkamas raides: įvedus 'p' - reiškia pats, o 'f' - iš failo. Tada klausiama, ar norima, kad galutinis balas būtų suskaičiuotas pagal vidurkį (reikia įvesti'v') arba pagal medianą (reikia įvesti'm'). 
 
 # v2.0
-Sukurta dokumentacija panaudojant Doxygen. 
+Sukurta dokumentacija panaudojant Doxygen, žiūrėti HTML sukeltą kodą čia [Dokumentacija](https://github.com/vaivapilk/Antra_uzduotis/tree/Dokumentacija). 
 
-Realizuoti **Unit Testai** naudojant Visual Studio `Native Unit Test Project` iš "Microsoft CppUnitTest" framework. Žiūrėti failus `UnitTest1.cpp`, `pch.cpp`, `pch.h`. Sukurti keturi paprasti testai.
+Realizuoti **Unit Testai** naudojant Visual Studio `Native Unit Test Project` iš "Microsoft CppUnitTest" framework. Žiūrėti folder `UnitTest`. Sukurti keturi paprasti testai.
 
 Paruoštas cmake `CMakeLists.txt`.
 
