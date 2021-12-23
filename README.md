@@ -5,5 +5,5 @@ Antra užduotis VU kursui "Objektinis programavimas su C++"
 
 + Žiūrėti pirmą versiją čia [v1.1](https://github.com/vaivapilk/Antra_uzduotis/tree/v1.1)
 + Žiūrėti antrą versiją čia [v1.2](https://github.com/vaivapilk/Antra_uzduotis/tree/v1.2)
-+ Žiūrėti antrą versiją čia [v1.5](https://github.com/vaivapilk/Antra_uzduotis/tree/v1.5)
-+ Žiūrėti antrą versiją čia [v2.0](https://github.com/vaivapilk/Antra_uzduotis/tree/v2.0)
++ Žiūrėti trečią versiją čia [v1.5](https://github.com/vaivapilk/Antra_uzduotis/tree/v1.5)
++ Žiūrėti ketvirtą versiją čia [v2.0](https://github.com/vaivapilk/Antra_uzduotis/tree/v2.0)
